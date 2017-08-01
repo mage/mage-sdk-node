@@ -9,9 +9,13 @@ run in the browser if built through a tool like Babel.
 npm i mage-sdk-node --save
 ```
 
+## Requirements
+
+At least NodeJS 6.x
+
 ## Usage
 
-### Node.JS
+### Promise-based
 
 ```javascript
 const Mage = require('mage-sdk-node')
