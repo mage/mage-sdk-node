@@ -1,0 +1,14 @@
+# Dependencies
+/node_modules
+
+# Logs
+*.log
+logs
+
+# Tests and instrumentation
+lib-cov
+coverage
+
+# Tools
+.grunt
+.lock-wscript

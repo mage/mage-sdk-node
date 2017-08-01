@@ -1,0 +1,23 @@
+{
+  "name": "mage-sdk-node",
+  "version": "1.0.0",
+  "description": "Mage client for Node.js",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node_modules/eslint/bin/eslint.js lib"
+  },
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mage/mage-sdk-node.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "rumplestiltskin": "0.1.0",
+    "superagent": "3.5.2",
+    "tomes": "0.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.3.0"
+  }
+}
